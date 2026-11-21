@@ -1,0 +1,18 @@
+{
+  "data": {
+    "pagination": {
+      "count_items": 0,
+      "current_page": 1,
+      "next_page_url": "",
+      "per_page": 20,
+      "perv_page_url": "",
+      "prev_page_url": "",
+      "total_items": 0,
+      "total_pages": 1
+    },
+    "sections": [],
+    "unread_count": 0
+  },
+  "key": "success",
+  "msg": "تم الإرسال بنجاح"
+}

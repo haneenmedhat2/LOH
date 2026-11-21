@@ -1,0 +1,79 @@
+[
+  {
+    "id": "13:5837",
+    "asset": "lohCheckoutPhone",
+    "width": 180,
+    "height": 180,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "33:6521",
+    "asset": "lohCheckoutContactless",
+    "width": 80,
+    "height": 50,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:5927",
+    "asset": "lohCheckoutCelebration",
+    "width": 160,
+    "height": 140,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3239",
+    "asset": "lohCheckoutCopy",
+    "width": 14,
+    "height": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3251",
+    "asset": "lohCheckoutQRIcon",
+    "width": 18,
+    "height": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:6046",
+    "asset": "lohCheckoutMerchantMark",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:6257",
+    "asset": "lohCheckoutFullCopy",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:5255",
+    "asset": "lohCheckoutButtonLock",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "38:6411",
+    "asset": "lohCheckoutSuccessBadge",
+    "width": 96,
+    "height": 96,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:5998",
+    "asset": "lohCheckoutPurchases",
+    "width": 18,
+    "height": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3220",
+    "asset": "lohCheckoutLocation",
+    "width": 12,
+    "height": 12,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

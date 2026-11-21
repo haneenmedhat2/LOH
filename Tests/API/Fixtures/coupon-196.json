@@ -1,0 +1,70 @@
+{
+  "data": {
+    "about": "عرض جديييييد",
+    "availability_status": " العرض غير متاح",
+    "available_time_text": null,
+    "branch": {
+      "address": null,
+      "directions_label": "الاتجاهات",
+      "directions_url": null,
+      "is_open": false,
+      "lat": null,
+      "lng": null,
+      "name": "top store test",
+      "status_text": "مغلق الآن"
+    },
+    "category_id": 1,
+    "category_name": "مطاعم",
+    "coupon_name": "عرض مطعم تيست",
+    "currency": "ريال",
+    "discount": null,
+    "discount_percentage": 0,
+    "distance": null,
+    "distance_value": null,
+    "features": [
+      { "key": "one_time_use", "title": "استخدام 500 مرات" },
+      { "key": "valid_days", "title": "صالح 8833 أيام" },
+      { "key": "secure_payment", "title": "دفع آمن" }
+    ],
+    "from_time": null,
+    "fulfillment_type": "branch_pickup",
+    "have_address": "no",
+    "have_option": "no",
+    "id": 196,
+    "images": [
+      { "id": 1, "image": "https://upgrade.loh.com.sa/storage/images/coupons/1792656229_4056.png" }
+    ],
+    "includes": [],
+    "is_available": false,
+    "is_favorite": false,
+    "lat": null,
+    "lng": null,
+    "location": null,
+    "nearest_city": null,
+    "options": [],
+    "original_price": 10,
+    "price": 10,
+    "rating": null,
+    "rating_count": 0,
+    "rating_text": null,
+    "service_fee": 1,
+    "store": {
+      "id": 79,
+      "image": "https://upgrade.loh.com.sa/storage/images/providers/1792596021_7897.png",
+      "is_verified": true,
+      "name": "top store test"
+    },
+    "terms": {
+      "items": [
+        "يستخدم داخل الفرع فقط",
+        "غير قابل للاستبدال أو الاسترجاع",
+        "يجب إبراز الكود قبل الطلب"
+      ],
+      "view_all_label": "عرض جميع الشروط"
+    },
+    "to_time": null,
+    "total_price": 11
+  },
+  "key": "success",
+  "msg": "تم الإرسال بنجاح"
+}

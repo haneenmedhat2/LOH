@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  CTF
+
+  Created by Mohamed Hadwa on 29/12/2023.
+  
+*/
+
+"CFBundleDisplayName" = "آخر ساعة";
+"NSCameraUsageDescription" = "يحتاج الي اذنك لفتح الكاميرا لتحميل صوره ملفك الشخصي";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = " يريد الوصول إلى موقعك للحصول على أداء أفضل والسماح لك بالوصول إلى أقرب مقدمي الخدمة";
+"NSLocationAlwaysUsageDescription" = " يريد الوصول إلى موقعك للحصول على أداء أفضل والسماح لك بالوصول إلى أقرب مقدمي الخدمة";
+"NSLocationWhenInUseUsageDescription" = "نستخدم موقعك فقط لعرض العروض القريبة منك.";
+"NSPhotoLibraryUsageDescription" = "  يحتاج إلى إذنك لفتح معرض الصور الخاص بك ليتمكن من تحميل صور ملفك الشخصي";

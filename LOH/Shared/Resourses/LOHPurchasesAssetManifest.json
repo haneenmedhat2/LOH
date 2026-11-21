@@ -1,0 +1,121 @@
+[
+  {
+    "id": "17:6522",
+    "width": 40,
+    "height": 40,
+    "asset": "lohPurchasesStarFilled",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6538",
+    "width": 40,
+    "height": 40,
+    "asset": "lohPurchasesStarOutline",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6559",
+    "width": 12,
+    "height": 12,
+    "asset": "lohPurchasesQuality",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6570",
+    "width": 12,
+    "height": 12,
+    "asset": "lohPurchasesFast",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6581",
+    "width": 12,
+    "height": 12,
+    "asset": "lohPurchasesAccurate",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6513",
+    "width": 18,
+    "height": 18,
+    "asset": "lohPurchasesMerchant",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "17:6605",
+    "width": 80,
+    "height": 80,
+    "asset": "lohPurchasesRatingSuccess",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:16483",
+    "width": 28,
+    "height": 28,
+    "asset": "lohPurchasesReady",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:16821",
+    "width": 28,
+    "height": 28,
+    "asset": "lohPurchasesUsed",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3611",
+    "width": 40.0,
+    "height": 40.0,
+    "asset": "lohPurchaseDetailReady",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3695",
+    "width": 14.0,
+    "height": 14.0,
+    "asset": "lohPurchaseDetailWarning",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3920",
+    "width": 36.0,
+    "height": 36.0,
+    "asset": "lohPurchaseDetailExpired",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "6:3752",
+    "width": 28.0,
+    "height": 28.0,
+    "asset": "lohPurchaseDetailCheck",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "16:691",
+    "width": 16.0,
+    "height": 16.0,
+    "asset": "lohRatingClose",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "16:738",
+    "width": 12.0,
+    "height": 12.0,
+    "asset": "lohRatingTagQuality",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "16:744",
+    "width": 12.0,
+    "height": 12.0,
+    "asset": "lohRatingTagFast",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "16:750",
+    "width": 12.0,
+    "height": 12.0,
+    "asset": "lohRatingTagAccurate",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

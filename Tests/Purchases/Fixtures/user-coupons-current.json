@@ -1,0 +1,51 @@
+{
+  "data": {
+    "counts": {"all": 2, "ended": 0, "ready": 1, "used": 1},
+    "coupons": [
+      {
+        "available_count": 2,
+        "coupon_id": 197,
+        "coupon_number": "2010105800000910",
+        "id": 910,
+        "image": "https://upgrade.loh.com.sa/storage/images/coupons/1792915133_3973.png",
+        "is_rated": false,
+        "name": "Test Offer",
+        "qr": "https://upgrade.loh.com.sa/storage/images/userCouponsQr/2010105800000910.png",
+        "rating": 0,
+        "status": "ready",
+        "status_text": "جاهز للاستخدام",
+        "store_address": "الرياض",
+        "store_id": 78,
+        "store_name": "TestLoh"
+      },
+      {
+        "available_count": 0,
+        "coupon_id": 197,
+        "coupon_number": "2010105600000909",
+        "id": 909,
+        "image": "https://upgrade.loh.com.sa/storage/images/coupons/1792915133_3973.png",
+        "is_rated": false,
+        "name": "Test Offer",
+        "qr": "https://upgrade.loh.com.sa/storage/images/userCouponsQr/2010105600000909.png",
+        "rating": 0,
+        "status": "used",
+        "status_text": "تم الاستخدام",
+        "store_address": "الرياض",
+        "store_id": 78,
+        "store_name": "TestLoh"
+      }
+    ],
+    "pagination": {
+      "count_items": 2,
+      "current_page": 1,
+      "next_page_url": "",
+      "per_page": 20,
+      "perv_page_url": "",
+      "prev_page_url": "",
+      "total_items": 2,
+      "total_pages": 1
+    }
+  },
+  "key": "success",
+  "msg": "تم الإرسال بنجاح"
+}

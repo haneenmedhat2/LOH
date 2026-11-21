@@ -1,0 +1,29 @@
+{
+    "key": "success",
+    "msg": "تم الارسال بنجاح",
+    "data": {
+        "notifications": {
+            "pagination": {
+                "total_items": 3,
+                "count_items": 1,
+                "per_page": "1",
+                "total_pages": 3,
+                "current_page": 2,
+                "next_page_url": "http://localhost:8000/api/v1/notifications?page=3",
+                "perv_page_url": "http://localhost:8000/api/v1/notifications?page=1"
+            },
+            "data": [
+                {
+                    "id": "3c8ed8bb-6f4d-45f0-8f94-b7e07124c85f",
+                    "type": "test",
+                    "title": "notification.title_test",
+                    "body": "notification.body_test",
+                    "data": {
+                        "type": "test"
+                    },
+                    "created_at": "منذ شهر"
+                }
+            ]
+        }
+    }
+}

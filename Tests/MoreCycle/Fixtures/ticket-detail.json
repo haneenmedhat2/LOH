@@ -1,0 +1,87 @@
+{
+  "key": "success",
+  "msg": "تم الإرسال بنجاح",
+  "data": {
+    "ticket": {
+      "id": 49,
+      "ticket_num": "LOH-2610290001",
+      "ticket_code": "#LOH-2610290001",
+      "title": "title",
+      "description": "new complation",
+      "status": "open",
+      "status_text": "مفتوحة",
+      "is_closed": false,
+      "can_user_reply": false,
+      "order_id": null,
+      "ticket_type_id": 1,
+      "order": null,
+      "ticket_type": {
+        "id": 1,
+        "name": "مشكلة في استخدام العرض"
+      },
+      "room": {
+        "id": 1,
+        "type": "support_ticket",
+        "private": true,
+        "complaint_id": 49,
+        "support_ticket_id": 1,
+        "order_id": null,
+        "last_message_id": 1
+      },
+      "room_id": 1,
+      "last_updated": "2026-10-29 10:36:36",
+      "created_at": "2026-10-29 10:36:36",
+      "messages": [
+        {
+          "id": 0,
+          "body": "new complation",
+          "sender": "user",
+          "created_at": "2026-10-29 10:36:36"
+        }
+      ]
+    },
+    "room": {
+      "id": 1,
+      "type": "support_ticket",
+      "private": true,
+      "complaint_id": 49,
+      "support_ticket_id": 1,
+      "order_id": null,
+      "last_message_id": 1
+    },
+    "members": [
+      {
+        "id": 1,
+        "type": "App\\Models\\Admin",
+        "name": "Manager",
+        "image": "https://example.com/admin.png"
+      }
+    ],
+    "messages": {
+      "pagination": {
+        "total_items": 1,
+        "count_items": 1,
+        "per_page": 100,
+        "total_pages": 1,
+        "current_page": 1,
+        "next_page_url": "",
+        "perv_page_url": "",
+        "prev_page_url": ""
+      },
+      "data": [
+        {
+          "id": 1,
+          "is_sender": true,
+          "sender": "user",
+          "body": "new complation",
+          "type": "text",
+          "duration": 0,
+          "name": "",
+          "created_at": "2026-10-29 10:36:36",
+          "created_dt": "منذ دقيقة"
+        }
+      ]
+    },
+    "can_reply": true
+  }
+}

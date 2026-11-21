@@ -1,0 +1,354 @@
+[
+  {
+    "name": "heart",
+    "id": "33:6394",
+    "width": 18,
+    "height": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeHeart"
+  },
+  {
+    "name": "share",
+    "id": "33:6379",
+    "width": 18,
+    "height": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeShare"
+  },
+  {
+    "name": "back",
+    "id": "33:6369",
+    "width": 20,
+    "height": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeBack"
+  },
+  {
+    "name": "verified",
+    "id": "13:4683",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeVerified"
+  },
+  {
+    "name": "merchantLogo",
+    "id": "13:4675",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeMerchantLogo"
+  },
+  {
+    "name": "pin",
+    "id": "13:4696",
+    "width": 14,
+    "height": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomePin"
+  },
+  {
+    "name": "star",
+    "id": "13:4712",
+    "width": 12,
+    "height": 12,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeStar"
+  },
+  {
+    "name": "lock",
+    "id": "13:4749",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeLock"
+  },
+  {
+    "name": "calendar",
+    "id": "13:4741",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeCalendar"
+  },
+  {
+    "name": "ticket",
+    "id": "13:4737",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeTicket"
+  },
+  {
+    "name": "check",
+    "id": "13:4767",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeCheck"
+  },
+  {
+    "name": "directions",
+    "id": "13:4835",
+    "width": 14,
+    "height": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeDirections"
+  },
+  {
+    "name": "clock",
+    "id": "13:5189",
+    "width": 12,
+    "height": 12,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeClock"
+  },
+  {
+    "name": "plus",
+    "id": "13:5207",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomePlus"
+  },
+  {
+    "name": "minus",
+    "id": "13:5198",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeMinus"
+  },
+  {
+    "name": "close",
+    "id": "13:4084",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeClose"
+  },
+  {
+    "name": "history",
+    "id": "13:4117",
+    "width": 14,
+    "height": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeHistory"
+  },
+  {
+    "name": "trend",
+    "id": "13:4242",
+    "width": 18,
+    "height": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeTrend"
+  },
+  {
+    "name": "bell",
+    "id": "13:3696",
+    "width": 20,
+    "height": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeBell"
+  },
+  {
+    "name": "heartFilled",
+    "id": "33:7065",
+    "width": 16,
+    "height": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeHeartFilled"
+  },
+  {
+    "name": "cashback",
+    "id": "13:3941",
+    "width": 24,
+    "height": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeCashback"
+  },
+  {
+    "name": "cafe",
+    "id": "13:3883",
+    "width": 12,
+    "height": 12,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeCafe"
+  },
+  {
+    "name": "restaurant",
+    "id": "13:3903",
+    "width": 12,
+    "height": 12,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeRestaurant"
+  },
+  {
+    "name": "emptySearch",
+    "id": "13:11229",
+    "width": 100,
+    "height": 90,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeEmptySearch"
+  },
+  {
+    "name": "magnifier",
+    "id": "33:7041",
+    "width": 72,
+    "height": 72,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeMagnifier"
+  },
+  {
+    "name": "purchasesEmpty",
+    "id": "13:10925",
+    "width": 350,
+    "height": 176,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomePurchasesEmpty"
+  },
+  {
+    "name": "sun",
+    "id": "13:6994",
+    "width": 24,
+    "height": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeSun"
+  },
+  {
+    "name": "notificationCheck",
+    "id": "13:7010",
+    "width": 24,
+    "height": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeNotificationCheck"
+  },
+  {
+    "name": "homeInactive",
+    "id": "I13:4644;13:4623",
+    "width": 24,
+    "height": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeHomeInactive"
+  },
+  {
+    "name": "paymentShield",
+    "id": "13:5318",
+    "width": 22,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomePaymentShield"
+  },
+  {
+    "name": "mada",
+    "id": "13:5354",
+    "width": 68,
+    "height": 22,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeMada"
+  },
+  {
+    "name": "cards",
+    "id": "13:5376",
+    "width": 64,
+    "height": 23,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeCards"
+  },
+  {
+    "name": "paymentCashback",
+    "id": "13:5406",
+    "width": 40,
+    "height": 40,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomePaymentCashback"
+  },
+  {
+    "name": "applePay",
+    "id": "13:5332",
+    "width": 40,
+    "height": 28,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeApplePay"
+  },
+  {
+    "name": "orderClock",
+    "id": "13:5240",
+    "width": 32,
+    "height": 32,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeOrderClock"
+  },
+  {
+    "name": "notificationStar",
+    "id": "13:7047",
+    "width": 24,
+    "height": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeNotificationStar"
+  },
+  {
+    "name": "emptyEntertainment",
+    "id": "13:12368",
+    "width": 28,
+    "height": 28,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeEmptyEntertainment"
+  },
+  {
+    "name": "emptyCafe",
+    "id": "13:12359",
+    "width": 28,
+    "height": 28,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeEmptyCafe"
+  },
+  {
+    "name": "emptyRestaurant",
+    "id": "13:12350",
+    "width": 28,
+    "height": 28,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeEmptyRestaurant"
+  },
+  {
+    "name": "CityLocation",
+    "id": "23:6095",
+    "width": 18,
+    "height": 18,
+    "asset": "lohHomeCityLocation",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "SheetClose",
+    "id": "17:5925",
+    "width": 14,
+    "height": 14,
+    "asset": "lohHomeSheetClose",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "CitySearch",
+    "id": "23:6087",
+    "width": 18,
+    "height": 18,
+    "asset": "lohHomeCitySearch",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "NotificationCity",
+    "id": "13:7062",
+    "width": 24,
+    "height": 24,
+    "asset": "lohHomeNotificationCity",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "searchLoader",
+    "id": "13:11077",
+    "width": 32,
+    "height": 32,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv",
+    "asset": "lohHomeSearchLoader"
+  }
+]

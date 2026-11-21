@@ -1,0 +1,17 @@
+{
+  "key": "success",
+  "msg": "success",
+  "data": {
+    "header": {
+      "image": "",
+      "title": "About Last One Hour",
+      "description": "Last One Hour brings you the best offers and discounts from stores near you."
+    },
+    "items": [],
+    "footer": {
+      "image": "",
+      "title": "A great saving experience",
+      "description": "We always strive to give you the best Last One Hour experience."
+    }
+  }
+}

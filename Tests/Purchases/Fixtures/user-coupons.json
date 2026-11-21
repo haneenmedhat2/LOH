@@ -1,0 +1,137 @@
+{
+  "key": "success",
+  "msg": "تم الارسال بنجاح",
+  "data": {
+    "pagination": {
+      "total_items": 3,
+      "count_items": 3,
+      "per_page": 20,
+      "total_pages": 1,
+      "current_page": 1,
+      "next_page_url": "",
+      "perv_page_url": ""
+    },
+    "coupons": [
+      {
+        "id": 4,
+        "category_id": 11,
+        "category_name": "الكترونيات",
+        "image": "http://127.0.0.1:8000/storage/images/coupons/1668119004_2128.png",
+        "code": "46",
+        "name": "انشاء تطبيق لمتجرك الالكتروني",
+        "description": "عندك متجر الكتروني ؟\r\n\r\nشرايك تنشئ له تطبيق لمتجرك الالكتروني بعرض رائغ\r\nفقط بـ 9000 ريال بدلا من  15500 ريال\r\n\r\nاحصل على تطبيق متكامل لمتجرك الالكتروني\r\n\r\nبعد الشراء سيتم التواصل معك من قبل فايبتكس لتقنية المعلومات لتنفيذ طلبك",
+        "price": "9,000.0",
+        "amount": 9,
+        "purchase_times": 0,
+        "stay": 9,
+        "time_appearance_start_at": "2022-11-11 01:18:00",
+        "time_appearance_finish_at": "2022-12-09 22:18:00",
+        "time_appearance_start_at_date_time": 1668118680,
+        "time_appearance_finish_at_date_time": 1670613480,
+        "share_link": "https://loh.com.sa/shareCoupon/4",
+        "print_link": "https://loh.com.sa/printCoupon/4/4249",
+        "discount_amount": null,
+        "store_name": "فايبتكس لتقنية المعلومات",
+        "store_image": "http://127.0.0.1:8000/storage/images/providers/63194122360.png",
+        "discount_type": "ratio",
+        "stay_time_date_time": -7744227,
+        "available": true,
+        "currency": "ريال",
+        "stay_time": {
+          "days": "29",
+          "hours": "13",
+          "minuets": "1",
+          "seconds": "26"
+        },
+        "cities": [
+          {
+            "id": 1,
+            "name": "الرياض",
+            "is_selected": true
+          }
+        ],
+        "options": []
+      },
+      {
+        "id": 4,
+        "category_id": 11,
+        "category_name": "الكترونيات",
+        "image": "http://127.0.0.1:8000/storage/images/coupons/1668119004_2128.png",
+        "code": "46",
+        "name": "انشاء تطبيق لمتجرك الالكتروني",
+        "description": "عندك متجر الكتروني ؟\r\n\r\nشرايك تنشئ له تطبيق لمتجرك الالكتروني بعرض رائغ\r\nفقط بـ 9000 ريال بدلا من  15500 ريال\r\n\r\nاحصل على تطبيق متكامل لمتجرك الالكتروني\r\n\r\nبعد الشراء سيتم التواصل معك من قبل فايبتكس لتقنية المعلومات لتنفيذ طلبك",
+        "price": "9,000.0",
+        "amount": 9,
+        "purchase_times": 0,
+        "stay": 9,
+        "time_appearance_start_at": "2022-11-11 01:18:00",
+        "time_appearance_finish_at": "2022-12-09 22:18:00",
+        "time_appearance_start_at_date_time": 1668118680,
+        "time_appearance_finish_at_date_time": 1670613480,
+        "share_link": "https://loh.com.sa/shareCoupon/4",
+        "print_link": "https://loh.com.sa/printCoupon/4/4249",
+        "discount_amount": null,
+        "store_name": "فايبتكس لتقنية المعلومات",
+        "store_image": "http://127.0.0.1:8000/storage/images/providers/63194122360.png",
+        "discount_type": "ratio",
+        "stay_time_date_time": -7744227,
+        "available": true,
+        "currency": "ريال",
+        "stay_time": {
+          "days": "29",
+          "hours": "13",
+          "minuets": "1",
+          "seconds": "26"
+        },
+        "cities": [
+          {
+            "id": 1,
+            "name": "الرياض",
+            "is_selected": true
+          }
+        ],
+        "options": []
+      },
+      {
+        "id": 4,
+        "category_id": 11,
+        "category_name": "الكترونيات",
+        "image": "http://127.0.0.1:8000/storage/images/coupons/1668119004_2128.png",
+        "code": "46",
+        "name": "انشاء تطبيق لمتجرك الالكتروني",
+        "description": "عندك متجر الكتروني ؟\r\n\r\nشرايك تنشئ له تطبيق لمتجرك الالكتروني بعرض رائغ\r\nفقط بـ 9000 ريال بدلا من  15500 ريال\r\n\r\nاحصل على تطبيق متكامل لمتجرك الالكتروني\r\n\r\nبعد الشراء سيتم التواصل معك من قبل فايبتكس لتقنية المعلومات لتنفيذ طلبك",
+        "price": "9,000.0",
+        "amount": 9,
+        "purchase_times": 0,
+        "stay": 9,
+        "time_appearance_start_at": "2022-11-11 01:18:00",
+        "time_appearance_finish_at": "2022-12-09 22:18:00",
+        "time_appearance_start_at_date_time": 1668118680,
+        "time_appearance_finish_at_date_time": 1670613480,
+        "share_link": "https://loh.com.sa/shareCoupon/4",
+        "print_link": "https://loh.com.sa/printCoupon/4/4249",
+        "discount_amount": null,
+        "store_name": "فايبتكس لتقنية المعلومات",
+        "store_image": "http://127.0.0.1:8000/storage/images/providers/63194122360.png",
+        "discount_type": "ratio",
+        "stay_time_date_time": -7744227,
+        "available": true,
+        "currency": "ريال",
+        "stay_time": {
+          "days": "29",
+          "hours": "13",
+          "minuets": "1",
+          "seconds": "26"
+        },
+        "cities": [
+          {
+            "id": 1,
+            "name": "الرياض",
+            "is_selected": true
+          }
+        ],
+        "options": []
+      }
+    ]
+  }
+}

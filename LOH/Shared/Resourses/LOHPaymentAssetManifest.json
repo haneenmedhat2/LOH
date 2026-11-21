@@ -1,0 +1,192 @@
+[
+  {
+    "name": "paymentMore",
+    "id": "13:7539",
+    "width": 18,
+    "height": 18,
+    "asset": "lohPaymentMore",
+    "renderWidth": 18,
+    "renderHeight": 18,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentForward",
+    "id": "13:7507",
+    "width": 20,
+    "height": 20,
+    "asset": "lohPaymentForward",
+    "renderWidth": 20,
+    "renderHeight": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentBlackCard",
+    "id": "33:6623",
+    "width": 60,
+    "height": 43,
+    "asset": "lohPaymentBlackCard",
+    "renderWidth": 70,
+    "renderHeight": 53,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentGoldCard",
+    "id": "33:6635",
+    "width": 59,
+    "height": 41,
+    "asset": "lohPaymentGoldCard",
+    "renderWidth": 69,
+    "renderHeight": 51,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentSecurity",
+    "id": "33:6650",
+    "width": 36,
+    "height": 36,
+    "asset": "lohPaymentSecurity",
+    "renderWidth": 36,
+    "renderHeight": 36,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentDelete",
+    "id": "17:6722",
+    "width": 20,
+    "height": 20,
+    "asset": "lohPaymentDelete",
+    "renderWidth": 20,
+    "renderHeight": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentRename",
+    "id": "17:6709",
+    "width": 20,
+    "height": 20,
+    "asset": "lohPaymentRename",
+    "renderWidth": 20,
+    "renderHeight": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentDefault",
+    "id": "17:6694",
+    "width": 20,
+    "height": 20,
+    "asset": "lohPaymentDefault",
+    "renderWidth": 20,
+    "renderHeight": 20,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormShield",
+    "id": "13:7645",
+    "width": 16,
+    "height": 16,
+    "asset": "lohPaymentFormShield",
+    "renderWidth": 16,
+    "renderHeight": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormPerson",
+    "id": "13:7655",
+    "width": 16,
+    "height": 16,
+    "asset": "lohPaymentFormPerson",
+    "renderWidth": 16,
+    "renderHeight": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormCard",
+    "id": "13:7665",
+    "width": 16,
+    "height": 16,
+    "asset": "lohPaymentFormCard",
+    "renderWidth": 16,
+    "renderHeight": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormCalendar",
+    "id": "13:7688",
+    "width": 14,
+    "height": 14,
+    "asset": "lohPaymentFormCalendar",
+    "renderWidth": 14,
+    "renderHeight": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormLock",
+    "id": "13:7700",
+    "width": 14,
+    "height": 14,
+    "asset": "lohPaymentFormLock",
+    "renderWidth": 14,
+    "renderHeight": 14,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormDefault",
+    "id": "13:7707",
+    "width": 16,
+    "height": 16,
+    "asset": "lohPaymentFormDefault",
+    "renderWidth": 16,
+    "renderHeight": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentSaveLock",
+    "id": "13:5775",
+    "width": 16,
+    "height": 16,
+    "asset": "lohPaymentSaveLock",
+    "renderWidth": 16,
+    "renderHeight": 16,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFooterLock",
+    "id": "13:7725",
+    "width": 11,
+    "height": 11,
+    "asset": "lohPaymentFooterLock",
+    "renderWidth": 11,
+    "renderHeight": 11,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentFormBrands",
+    "id": "13:7670",
+    "width": 326,
+    "height": 24,
+    "asset": "lohPaymentFormBrands",
+    "renderWidth": 326,
+    "renderHeight": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentDeleteIllustration",
+    "id": "17:6743",
+    "width": 96,
+    "height": 96,
+    "asset": "lohPaymentDeleteIllustration",
+    "renderWidth": 96,
+    "renderHeight": 97,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "paymentDeleteDecoration",
+    "id": "38:7161",
+    "width": 28,
+    "height": 24,
+    "asset": "lohPaymentDeleteDecoration",
+    "renderWidth": 28,
+    "renderHeight": 24,
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

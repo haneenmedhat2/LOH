@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  CTF
+
+  Created by Mohamed Hadwa on 29/12/2023.
+  
+*/
+
+"CFBundleDisplayName" = "Last One Hour";
+"NSCameraUsageDescription" = "to pick your profile picture";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "to get nearest providers around you";
+"NSLocationAlwaysUsageDescription" = "to get nearest providers around you";
+"NSLocationWhenInUseUsageDescription" = "We use your location only to show nearby offers.";
+"NSPhotoLibraryUsageDescription" = "to pick your profile picture";

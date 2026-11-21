@@ -1,0 +1,54 @@
+{
+  "data": {
+    "code": "[REDACTED]",
+    "coupon": {
+      "description": "New offer",
+      "id": 197,
+      "image": "https://upgrade.loh.com.sa/storage/images/coupons/1792915133_3973.png",
+      "name": "Test Offer"
+    },
+    "finish_usage_at": "2026-12-25 13:18:16",
+    "finish_usage_at_text": "25 ديسمبر 2026",
+    "header": {
+      "date_text": null,
+      "description": "توجّه إلى المتجر وابرز الكود للموظف ليتم مسحه وتفعيل عرضك.",
+      "title": "عرضك جاهز للاستخدام"
+    },
+    "how_to_use": {
+      "steps": [
+        "توجّه إلى المتجر في أي وقت قبل انتهاء العرض.",
+        "اضغط على \"عرض الكود\" لإظهار الباركود الخاص بك.",
+        "أبرز الكود للموظف ليقوم بمسحه وتأكيد الاستخدام."
+      ],
+      "title": "كيف أستخدم العرض؟"
+    },
+    "id": 910,
+    "order": {
+      "currency": "ريال",
+      "id": 524,
+      "order_num": "#LOH-2026524",
+      "paid_amount": 2,
+      "payment_method": "visa",
+      "payment_method_text": "Visa / Mastercard",
+      "purchased_at": "2026-10-26 13:18:16",
+      "purchased_at_text": "26 أكتوبر 2026، 1:18 م"
+    },
+    "rating": {
+      "can_rate": false,
+      "comment": null,
+      "is_rated": false,
+      "rating": 0,
+      "rating_label": null
+    },
+    "status": "ready",
+    "status_text": "جاهز للاستخدام",
+    "store": {
+      "address": "الرياض",
+      "id": 78,
+      "image": "https://upgrade.loh.com.sa/storage/images/providers/1792576533_4936.png",
+      "name": "TestLoh"
+    }
+  },
+  "key": "success",
+  "msg": "تم الإرسال بنجاح"
+}

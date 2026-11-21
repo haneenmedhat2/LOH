@@ -1,0 +1,64 @@
+{
+  "key": "success",
+  "msg": "تم الدفع بنجاح",
+  "data": {
+    "order_id": 528,
+    "offers": [
+      {
+        "id": 916,
+        "status": "ready",
+        "status_text": "جاهز للاستخدام",
+        "code": {
+          "coupon_number": "CHECKOUT-TEST-916",
+          "is_active": true,
+          "qr": "https://example.invalid/qr/CHECKOUT-TEST-916.png",
+          "status_text": null
+        },
+        "coupon": {
+          "id": 197,
+          "name": "Test Offer",
+          "description": "New offer",
+          "image": "https://example.invalid/coupons/197.png"
+        },
+        "store": {
+          "id": 78,
+          "name": "TestLoh",
+          "image": "https://example.invalid/providers/78.png",
+          "address": "Prince Majid bin Abdulaziz Road, Al Jawharah District, Arar 73551, Northern Borders, Saudi Arabia، عرعر"
+        },
+        "order": {
+          "id": 528,
+          "order_num": "#LOH-2026528",
+          "paid_amount": 2,
+          "currency": "ريال",
+          "payment_method": "visa",
+          "payment_method_text": "Visa / Mastercard",
+          "purchased_at": "2026-10-27 16:02:57",
+          "purchased_at_text": "27 أكتوبر 2026، 4:02 م"
+        },
+        "finish_usage_at": "2026-12-26 16:02:57",
+        "finish_usage_at_text": "26 ديسمبر 2026",
+        "header": {
+          "title": "عرضك جاهز للاستخدام",
+          "description": "توجّه إلى المتجر وابرز الكود للموظف ليتم مسحه وتفعيل عرضك.",
+          "date_text": null
+        },
+        "how_to_use": {
+          "title": "كيف أستخدم العرض؟",
+          "steps": [
+            "توجّه إلى المتجر في أي وقت قبل انتهاء العرض.",
+            "اضغط على \"عرض الكود\" لإظهار الباركود الخاص بك.",
+            "أبرز الكود للموظف ليقوم بمسحه وتأكيد الاستخدام."
+          ]
+        },
+        "rating": {
+          "can_rate": false,
+          "comment": null,
+          "is_rated": false,
+          "rating": 0,
+          "rating_label": null
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "13:4889",
+    "width": 28,
+    "height": 28,
+    "asset": "lohMerchantProfileLogo",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:5082",
+    "width": 348,
+    "height": 120,
+    "asset": "lohMerchantMap",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "id": "13:4813",
+    "width": 72,
+    "height": 72,
+    "asset": "lohOfferBranchMap",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

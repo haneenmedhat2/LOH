@@ -1,0 +1,154 @@
+[
+  {
+    "name": "accountCamera",
+    "id": "33:6585",
+    "width": 13,
+    "height": 13,
+    "asset": "lohAccountCamera",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountCalendar",
+    "id": "13:7131",
+    "width": 14,
+    "height": 14,
+    "asset": "lohAccountCalendar",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountForward",
+    "id": "13:7137",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountForward",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountMenuArrow",
+    "id": "13:7170",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountMenuArrow",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountPayment",
+    "id": "13:7162",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountPayment",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountNotification",
+    "id": "13:7174",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountNotification",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountSupport",
+    "id": "13:7186",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountSupport",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountJoin",
+    "id": "13:7198",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountJoin",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountSettings",
+    "id": "13:7212",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountSettings",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "accountLogout",
+    "id": "13:7225",
+    "width": 18,
+    "height": 18,
+    "asset": "lohAccountLogout",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileEdit",
+    "id": "13:7415",
+    "width": 15,
+    "height": 15,
+    "asset": "lohProfileEdit",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileMail",
+    "id": "13:7411",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfileMail",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileCalendar",
+    "id": "13:7355",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfileCalendar",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profilePerson",
+    "id": "13:7330",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfilePerson",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profilePin",
+    "id": "13:7397",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfilePin",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileDown",
+    "id": "13:7401",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfileDown",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profilePhone",
+    "id": "13:7436",
+    "width": 14,
+    "height": 14,
+    "asset": "lohProfilePhone",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileCheck",
+    "id": "13:7443",
+    "width": 9,
+    "height": 9,
+    "asset": "lohProfileCheck",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "profileSuccess",
+    "id": "17:6668",
+    "width": 30,
+    "height": 30,
+    "asset": "lohProfileSuccess",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

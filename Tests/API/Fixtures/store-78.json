@@ -1,0 +1,63 @@
+{
+  "key": "success",
+  "msg": "تم الإرسال بنجاح",
+  "data": {
+    "id": 78,
+    "name": "TestLoh",
+    "image": "https://upgrade.loh.com.sa/storage/images/providers/1792576533_4936.png",
+    "cover": null,
+    "is_verified": true,
+    "is_followed": false,
+    "followers_count": 0,
+    "store_type": "مطاعم",
+    "rating": null,
+    "rating_count": 0,
+    "rating_text": null,
+    "distance": null,
+    "distance_value": null,
+    "address": "الرياض",
+    "location_text": "الرياض",
+    "stats": {
+      "offers_count": 1,
+      "distance": null,
+      "rating": null
+    },
+    "about": "",
+    "categories": [
+      {
+        "id": 17,
+        "name": "كل الأقسام",
+        "image": "https://upgrade.loh.com.sa/storage/images/categories/default.png"
+      },
+      {
+        "id": 1,
+        "name": "مطاعم",
+        "image": "https://upgrade.loh.com.sa/storage/images/categories/default.png"
+      }
+    ],
+    "offers": [
+      {
+        "id": 197,
+        "image": "https://upgrade.loh.com.sa/storage/images/coupons/1792915133_3973.png",
+        "is_favorite": false,
+        "distance": null,
+        "is_available": true,
+        "store_name": "TestLoh",
+        "store_image": "https://upgrade.loh.com.sa/storage/images/providers/1792576533_4936.png",
+        "coupon_name": "Test Offer",
+        "price": 1,
+        "original_price": 1,
+        "currency": "ريال",
+        "discount": null
+      }
+    ],
+    "location": {
+      "address": "الرياض",
+      "distance": null,
+      "lat": null,
+      "lng": null,
+      "directions_label": "الاتجاهات",
+      "directions_url": null
+    }
+  }
+}

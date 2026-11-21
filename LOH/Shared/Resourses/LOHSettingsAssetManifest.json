@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Arrow",
+    "id": "13:9252",
+    "screen": "13:9209",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsArrow",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Lock",
+    "id": "13:9244",
+    "screen": "13:9209",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsLock",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Globe",
+    "id": "13:9261",
+    "screen": "13:9209",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsGlobe",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Shield",
+    "id": "13:9279",
+    "screen": "13:9209",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsShield",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Document",
+    "id": "13:9290",
+    "screen": "13:9209",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsDocument",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Info",
+    "id": "13:9304",
+    "screen": "13:9209",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsInfo",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Eye",
+    "id": "13:9394",
+    "screen": "13:9344",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsEye",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PasswordHero",
+    "id": "13:9374",
+    "screen": "13:9344",
+    "width": 22,
+    "height": 22,
+    "asset": "lohSettingsPasswordHero",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "FieldLock",
+    "id": "13:9388",
+    "screen": "13:9344",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsFieldLock",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PasswordTips",
+    "id": "13:9432",
+    "screen": "13:9344",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsPasswordTips",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "LanguageGlobe",
+    "id": "13:9592",
+    "screen": "13:9561",
+    "width": 28,
+    "height": 28,
+    "asset": "lohSettingsLanguageGlobe",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "LanguageNote",
+    "id": "13:9653",
+    "screen": "13:9561",
+    "width": 18,
+    "height": 18,
+    "asset": "lohSettingsLanguageNote",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PolicyArrow",
+    "id": "13:9780",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsPolicyArrow",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PolicyDocument",
+    "id": "13:9772",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsPolicyDocument",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "SecurityHero",
+    "id": "13:9719",
+    "screen": "13:9684",
+    "width": 52,
+    "height": 58,
+    "asset": "lohSettingsSecurityHero",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "SecurityLock",
+    "id": "13:9732",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsSecurityLock",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Private",
+    "id": "13:9742",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsPrivate",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Person",
+    "id": "13:9752",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsPerson",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Card",
+    "id": "13:9762",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsCard",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Secure",
+    "id": "13:9797",
+    "screen": "13:9684",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsSecure",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PrivacyHero",
+    "id": "13:9862",
+    "screen": "13:9827",
+    "width": 40,
+    "height": 44,
+    "asset": "lohSettingsPrivacyHero",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "PrivacyFooter",
+    "id": "13:9948",
+    "screen": "13:9827",
+    "width": 11,
+    "height": 11,
+    "asset": "lohSettingsPrivacyFooter",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsHero",
+    "id": "13:10012",
+    "screen": "13:9975",
+    "width": 44,
+    "height": 50,
+    "asset": "lohSettingsTermsHero",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsFile",
+    "id": "13:10031",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsFile",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsService",
+    "id": "13:10042",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsService",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsPerson",
+    "id": "13:10052",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsPerson",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsTag",
+    "id": "13:10077",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsTag",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsCard",
+    "id": "13:10102",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsCard",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeletePerson",
+    "id": "38:6529",
+    "screen": "13:10193",
+    "width": 38,
+    "height": 38,
+    "asset": "lohSettingsDeletePerson",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteBin",
+    "id": "38:6533",
+    "screen": "13:10193",
+    "width": 28,
+    "height": 32,
+    "asset": "lohSettingsDeleteBin",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteProfile",
+    "id": "13:10237",
+    "screen": "13:10193",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsDeleteProfile",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteTag",
+    "id": "13:10244",
+    "screen": "13:10193",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsDeleteTag",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteWarning",
+    "id": "13:10257",
+    "screen": "13:10193",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsDeleteWarning",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "Warning",
+    "id": "13:10265",
+    "screen": "13:10193",
+    "width": 16,
+    "height": 16,
+    "asset": "lohSettingsWarning",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteFooter",
+    "id": "13:10369",
+    "screen": "13:10193",
+    "width": 10,
+    "height": 10,
+    "asset": "lohSettingsDeleteFooter",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "DeleteOTPBin",
+    "id": "33:6846",
+    "screen": "13:10394",
+    "width": 52,
+    "height": 58,
+    "asset": "lohSettingsDeleteOTPBin",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "OTPWarning",
+    "id": "13:10446",
+    "screen": "13:10394",
+    "width": 20,
+    "height": 20,
+    "asset": "lohSettingsOTPWarning",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "OTPFooter",
+    "id": "33:6870",
+    "screen": "13:10394",
+    "width": 12,
+    "height": 12,
+    "asset": "lohSettingsOTPFooter",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "LanguageSuccess",
+    "id": "17:6890",
+    "screen": "13:19022",
+    "width": 32,
+    "height": 32,
+    "asset": "lohSettingsLanguageSuccess",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsTicket",
+    "id": "13:10122",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsTicket",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsAccount",
+    "id": "13:10147",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsAccount",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsChanges",
+    "id": "13:10158",
+    "screen": "13:9975",
+    "width": 15,
+    "height": 15,
+    "asset": "lohSettingsTermsChanges",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  },
+  {
+    "name": "TermsFooter",
+    "id": "13:10167",
+    "screen": "13:9975",
+    "width": 13,
+    "height": 13,
+    "asset": "lohSettingsTermsFooter",
+    "fileKey": "FYN2HgYcuBioezCOg51Ubv"
+  }
+]

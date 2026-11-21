@@ -1,0 +1,35 @@
+{
+    "key": "success",
+    "msg": "تم الارسال بنجاح",
+    "data": {
+        "pagination": {
+            "total_items": 2,
+            "count_items": 2,
+            "per_page": 20,
+            "total_pages": 1,
+            "current_page": 1,
+            "next_page_url": "",
+            "perv_page_url": ""
+        },
+        "data": [
+            {
+                "id": "1e9c1717-6075-46fa-a34b-58d37ff13c80",
+                "key": "admin_notify",
+                "title": "إشعار إداري",
+                "body": "hello",
+                "is_clickable": false,
+                "coupon_id": 0,
+                "created_at": "منذ دقيقتين"
+            },
+            {
+                "id": "e16614aa-f4e6-45f0-a697-18996da37a76",
+                "key": "coupon_notify",
+                "title": "test",
+                "body": "test",
+                "is_clickable": false,
+                "coupon_id": 0,
+                "created_at": "منذ 6 دقائق"
+            }
+        ]
+    }
+}
